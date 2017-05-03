@@ -1,0 +1,2 @@
+# echo-git-remote-add-origin-https-github.com-DJD888-704596181437.git-git-push--u-origin-master-
+echo "# git-remote-add-origin-https-github.com-DJD888-704596181437.git-git-push--u-origin-master" >> README.md git init git add README.md git commit -m "first commit" git remote add origin https://github.com/DJD888/git-remote-add-origin-https-github.com-DJD888-704596181437.git-git-push--u-origin-master.git git push -u origin master
